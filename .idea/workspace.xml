@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac7b3621-1cec-47da-8148-e51a35e18d5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jawaban3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UAS1E.java" afterDir="false" />
-    </list>
+    <list default="true" id="ac7b3621-1cec-47da-8148-e51a35e18d5a" name="Changes" comment="send" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +41,21 @@
       <option name="presentableId" value="Default" />
       <updated>1673917938407</updated>
     </task>
+    <task id="LOCAL-00001" summary="send">
+      <created>1673926676569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673926676569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="send">
+      <created>1673926780401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673926780401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +68,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" kirim" />
+    <MESSAGE value="send" />
+    <option name="LAST_COMMIT_MESSAGE" value="send" />
   </component>
 </project>
